@@ -22,7 +22,7 @@ Please cite our papers if you use the data in the above link.
     publisher = "Association for Computational Linguistics",
     url = "https://www.aclweb.org/anthology/2020.emnlp-main.314",
     doi = "10.18653/v1/2020.emnlp-main.314",
-    pages = "3830--3840",
+    pages = "3830--3840"
 }
 ```
 
